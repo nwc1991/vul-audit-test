@@ -1,6 +1,6 @@
 {
   "name": "vul-audit-test",
-  "version": "1.0.0",   
+  "version": "1.0.0",
   "dependencies": {
     "agenda": "^0.9.0",
     "async": "^2.4.0",
@@ -97,8 +97,7 @@
     "underscore": "1.8.3",
     "whatwg-fetch": "^1.0.0"
   },
-  "devDependencies": {
-    "@nowtv/eslint-config-iceberg": "1.0.0",
+  "devDependencies": {    
     "chai": "3.5.0",
     "chai-as-promised": "6.0.0",
     "chai-properties": "1.2.1",
