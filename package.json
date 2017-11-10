@@ -97,7 +97,7 @@
     "underscore": "1.8.3",
     "whatwg-fetch": "^1.0.0"
   },
-  "devDependencies": {    
+  "devDependencies": {
     "chai": "3.5.0",
     "chai-as-promised": "6.0.0",
     "chai-properties": "1.2.1",
