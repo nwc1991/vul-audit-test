@@ -67,7 +67,7 @@
     "reselect": "^3.0.1",
     "slick-carousel": "1.6.0",
     "string.prototype.startswith": "^0.2.0",
-    "angular": "1.4.3",
+    "angular": "1.6.7",
     "angular-animate": "1.4.3",
     "angular-cookies": "1.4.3",
     "angular-messages": "1.4.3",
