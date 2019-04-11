@@ -69,7 +69,7 @@
         "gridstack": "^0.3.0",
         "html-to-react": "^1.2.11",
         "immutable": "^3.8.1",
-        "jquery": "2.2.4",
+        "jquery": "3.4.0",
         "ngreact": "^0.4.1",
         "node-sass": "^4.5.3",
         "prop-types": "^15.5.10",
