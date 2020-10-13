@@ -71,7 +71,7 @@
         "immutable": "^3.8.1",
         "jquery": "2.2.4",
         "ngreact": "^0.4.1",
-        "node-sass": "^4.5.3",
+        "node-sass": "^4.13.1",
         "prop-types": "^15.5.10",
         "raven-js": "^3.16.0",
         "react-bootstrap": "^0.31.0",
