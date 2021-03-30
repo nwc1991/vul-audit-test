@@ -86,7 +86,7 @@
         "redux-immutable": "^4.0.0",
         "redux-raven-middleware": "^1.2.0",
         "sass-loader": "^6.0.6",
-        "underscore": "1.8.3",
+        "underscore": "1.12.1",
         "whatwg-fetch": "^1.0.0",
         "@nowtv/iceberg-shared-core": "0.3.0",
         "axios": "^0.16.2",
